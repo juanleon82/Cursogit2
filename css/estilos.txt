@@ -1,1 +1,3 @@
 Esto es la primera linea para probar git.
+
+esta es la segunda linea. sigo aprendiendo git
